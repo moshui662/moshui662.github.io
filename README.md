@@ -1,4 +1,4 @@
-# Blog Title :link: https://moshui662.github.io 
+# Blog Title :Ink的自留地: https://moshui662.github.io 
 ### :page_facing_up: [1](https://moshui662.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 34 
